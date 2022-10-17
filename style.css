@@ -1,7 +1,11 @@
 body {
     background: #cccccc
 }
-<h1>{
+
+#banner {
+
+}
+h1{
     text-align: center;
 }
 p {
