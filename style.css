@@ -1,3 +1,7 @@
+body {
+    background: gray;
+}
+
 p {
-    text-align: center; background: plum;
+    text-align: center;
 }
